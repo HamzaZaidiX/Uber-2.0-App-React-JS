@@ -4,23 +4,27 @@ Request a ride from 600+ airports and in 10,000+ cities around the world, the Ub
 
 ## ⭐ Introduction:
 
-Hello 👋 I have Made `Uber 2.0 App` By **React JS** which is Demo App but complete fully sick & cool 😎 Responsive and Mobile Freindly **Web/App**. In this App you can go on ride by Mini, Go 🚙 & Bike 🚲 by cheap fares but simply Login and Signup from your account.
+Hello 👋 I have Made `Uber 2.0 App` By **React JS** which is Demo App but complete fully sick & cool 😎 Responsive and Mobile Freindly **Web/App**. In this App you can go on **Ride by Mini, Go 🚙 & Bike 🚲 by cheap fares by simply Login and Signup from your Google account**.
 
 ## ⭐ Materials Used:
 
-- Redux
-- Next JS
-- Mapbox Api
-- Tailwind CSS Styled Components
-- Firebase🔥 Authentication (By Google Login / Logout)
-- Fully Mobile Responsive Friendly (App Version)
-- Use Car's Details from JSON 
+- **Redux**
+- **Next JS**
+- **Mapbox Api**
+- **Tailwind CSS Styled Components**
+- **Firebase🔥 Authentication** (By `Google Login / Logout`)
+- **Fully Mobile Responsive Friendly (App Version)**
+- **Use Car's Details from JSON** 
 
 ## ⭐ Features:
 
-- Login/logout (You can't go to homepage without getting login) MUCH MORE FEATURES!
+- `Login/logout` (You can't go to homepage without getting login) MUCH MORE FEATURES IN APP 🚀!
+- Ride on Any `🚙 UberX, Go, Mini, Auto Rickshaw, Bike 🚲`
+- Calculate the `Exact Price by Distance`
+- `Captain Details & Arival Time is less⏰`
 
-## Run This Project:
+
+## ⭐ Run This Project:
 
 **Blog =>** [Run This Project 🚀](https://nextjs.org/docs/messages/production-start-no-build-id#possible-ways-to-fix-it)
  
