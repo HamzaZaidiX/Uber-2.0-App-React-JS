@@ -27,6 +27,9 @@ Hello 👋 I have Made `Uber 2.0 App` By **React JS** which is Demo App but comp
 ## ⭐ Run This Project:
 
 **Blog =>** [Run This Project 🚀](https://nextjs.org/docs/messages/production-start-no-build-id#possible-ways-to-fix-it)
+
+- Run `npm next build` to create a production build before booting up the production server.
+- If your intention was to run the development server run `npm next dev` instead.
  
 ## ⭐ Screenshots:
 
